@@ -3,6 +3,34 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][Keep a Changelog] and this project adheres to [Semantic Versioning][Semantic Versioning].
 
+## [0.30.2] - 2022-06-27
+
+### Changed
+- Updated Dependencies
+
+## [0.30.1] - 2022-05-17
+
+### Fixed
+- Fixed Pattern Library syntax
+
+## [0.30.0] - 2022-05-17
+
+### Added
+- Added support to configure compression value for images
+
+### Changed
+- Added responsive image examples to the pattern library
+- Moved image sizes functions out from the default setup to their own action
+- Updated Dependencies
+
+### Fixed
+- Added filter to properly style active items on nav-menus with Bootstrap Nav-Walker
+
+## [0.29.1] - 2022-04-04
+
+### Security
+- Secondary dependencies security updates
+
 ## [0.29.0] - 2022-03-16
 
 ### Added
@@ -190,6 +218,10 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 <!-- Versions -->
 [Unreleased]: https://github.com/stefanobartoletti/bricks/compare/master...devel
 
+[0.30.2]: https://github.com/stefanobartoletti/bricks/compare/v0.30.1...v0.30.2
+[0.30.1]: https://github.com/stefanobartoletti/bricks/compare/v0.30.0...v0.30.1
+[0.30.0]: https://github.com/stefanobartoletti/bricks/compare/v0.29.1...v0.30.0
+[0.29.1]: https://github.com/stefanobartoletti/bricks/compare/v0.29.0...v0.29.1
 [0.29.0]: https://github.com/stefanobartoletti/bricks/compare/v0.28.0...v0.29.0
 [0.28.0]: https://github.com/stefanobartoletti/bricks/compare/v0.27.3...v0.28.0
 [0.27.3]: https://github.com/stefanobartoletti/bricks/compare/v0.27.2...v0.27.3
@@ -209,3 +241,5 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 [0.20.2]: https://github.com/stefanobartoletti/bricks/compare/v0.20.1...v0.20.2
 [0.20.1]: https://github.com/stefanobartoletti/bricks/compare/v0.20.0...v0.20.1
 [0.20.0]: https://github.com/stefanobartoletti/bricks/releases/v0.20.0
+
+[unreleased]: https://github.com/stefanobartoletti/bricks/compare/v0.30.2...HEAD
